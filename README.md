@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/https://x.com/mikodz2531" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/mikodz2531?logo=twitter&style=for-the-badge" alt="https://x.com/mikodz2531" /></a> </p>
 
-- 🌱 I’m currently learning **Django, Nod.js**
+- 🌱 I’m currently learning **Django, Nodejs**
 
 - 💬 Ask me about **REST-API, CI/CD, Docker**
 
