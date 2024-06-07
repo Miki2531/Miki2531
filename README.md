@@ -100,9 +100,11 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
     </a>
 </p>
+<h3 align="center">Most Frequently Used Programming Languages:</h3>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miki2531&show_icons=true&locale=en&layout=compact" alt="miki2531" />
 </p>
+<h3 align="center">GitHub Stats:</h3>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=miki2531&show_icons=true&locale=en" alt="miki2531" />
 </p>
