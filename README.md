@@ -1,5 +1,5 @@
 <img align="center" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif">
-<h1 align="center">Hi 👋, I'm Mikiyas</h1>
+<h1 align="center">Hi there 👋, I'm Mikiyas</h1>
 <h3 align="center">A passionate Back-end Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 <p align="left"> 
@@ -8,16 +8,18 @@
 <p align="left">
     <a href="https://twitter.com/mikodz2531" target="blank">
         <img src="https://img.shields.io/twitter/follow/mikodz2531?logo=twitter&style=for-the-badge" alt="mikodz2531" />
-    </a> 
+    </a>
+    <a href="https://github.com/miki2531?tab=followers" target="blank">
+        <img src="https://img.shields.io/github/followers/miki2531?label=Followers&style=for-the-badge" alt="miki2531" />
+    </a>
+    <a href="https://github.com/miki2531" target="blank">
+        <img src="https://img.shields.io/github/stars/miki2531?affiliations=OWNER&style=for-the-badge" alt="miki2531" />
+    </a>
 </p>
-🌱 I’m currently learning Python, Django, Node.js.
-
-💬 Ask me about REST-API, CI/CD, Docker, Redis.
-
+🌱 I’m currently learning Python, Django, Node.js
+💬 Ask me about REST-API, CI/CD, Docker, Redis
 📫 How to reach me mikiyasshemelis46@gmail.com
-
 ⚡ Fun fact I am funny
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/mikodz2531" target="blank">
@@ -99,10 +101,12 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
     </a>
 </p>
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miki2531&show_icons=true&locale=en&layout=compact" alt="miki2531" />
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miki2531&show_icons=true&locale=en&layout=compact" alt="miki2531" />
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miki2531&show_icons=true&locale=en" alt="miki2531" /></p>
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miki2531&" alt="miki2531" />
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=miki2531&show_icons=true&locale=en" alt="miki2531" />
+</p>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=miki2531&" alt="miki2531" />
 </p>
