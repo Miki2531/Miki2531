@@ -10,9 +10,9 @@
         <img src="https://img.shields.io/twitter/follow/mikodz2531?logo=twitter&style=for-the-badge" alt="mikodz2531" />
     </a> 
 </p>
-🌱 I’m currently learning Python, Django, Node.js
+🌱 I’m currently learning Python, Django, Node.js.
 
-💬 Ask me about REST-API, CI/CD, Docker
+💬 Ask me about REST-API, CI/CD, Docker, Redis.
 
 📫 How to reach me mikiyasshemelis46@gmail.com
 
